@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<car>
+	<Make Location="Ohio">
+		<Name>Honda Accord</Name>
+		<Model>Sedan</Model>
+		<Year>2012</Year>
+		<Value>USD 20,000</Value><Value>USD 20,000</Value></Make>
+	<Make>
+		<Name>Toyota Camry</Name>
+		<Model>Sedan</Model>
+		<Year>2011</Year>
+	</Make>
+</car>
